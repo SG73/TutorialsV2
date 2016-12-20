@@ -4,7 +4,7 @@
 
 	<groupId>com.codenotfound</groupId>
 	<artifactId>jaxws-cxf-helloworld-example</artifactId>
-	<version>1.0.0.RELEASE</version>
+	<version>1.0.1.RELEASE-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>jaxws-cxf-helloworld-example</name>
@@ -88,7 +88,7 @@
 		<connection>scm:git:git@github.com:SG73/TutorialsV2.git</connection>
 		<url>scm:git:git@github.com:SG73/TutorialsV2.git</url>
 		<developerConnection>scm:git:git@github.com:SG73/TutorialsV2.git</developerConnection>
-	  <tag>jaxws-cxf-helloworld-example-1.0.0.RELEASE</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
